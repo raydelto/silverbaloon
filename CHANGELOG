@@ -1,0 +1,30 @@
+v1.2
+
+Now maps are loaded from my own fileformat .s4w.
+Added some kind of pk3 file that I wrote to group data files specific to a map.
+Reorganized the code a little.
+Multitexturing (not notisable for now).
+Lightmaps (not complete, they were added by hand.
+Complete rewrite of the FPS counter.
+Removed the stupid menu.
+
+v1.1
+
+Changed from glut to SDL.
+In this release we have a (simple) CONSOLE!!!
+A fps counter.
+Quake3 Style camera movement (spectator).
+Added thos more maps and replaced the first one.
+Loads Compressed and Uncompressed TGAs.
+Added a simple menu with some sphere maping effects (which will not be seen if not in high resolution), not all demos work. <- resolution can be set in line 1355 of base.c
+A simple Particle engine.
+Simple but simple sound support.
+Disorganized the code a little :(, thing that I will fix in next release.
+
+v1.0
+First release!
+
+Loading the .ASE files that 3D Studio MAX exports.
+Texture Maping.
+Basic Lighting.
+Can load multiple objects from the .ASE file, thats the way the maps are loaded.
