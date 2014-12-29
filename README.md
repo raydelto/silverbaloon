@@ -42,7 +42,6 @@ If you have any questions or comments please e-mail the following people:
 
 Argenis Bilbao
 Programmer
-saw@s4wsbox.com 
 
 Raydelto Hernandez
 Programmer
@@ -50,12 +49,7 @@ raydelto@gmail.com
 
 Alejandro Bilbao
 The 3D Artist
-midgard@s4wsbox.com 
 
 Jose Amado
 The 2D Artist
 joseamado22@hotmail.com 
-
-
-
-http://www.s4wsbox.com/
