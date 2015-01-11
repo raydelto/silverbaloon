@@ -11,9 +11,7 @@ A -> strafe left
 D -> strafe right
 SPACE BAR -> move vertically towards the positive Y
 
-MOUSE -> ehhh........ duh, rotates camera. 
-
-
+MOUSE -> rotates camera. 
 
 
 Commands to use in the console:
@@ -36,7 +34,7 @@ Usage: "spacelev 30"
 
 exit -> type this and exit the program.
 
-You can download the windows binary version from:
+You can download the windows binaries  from:
 
 http://www.raydelto.org/bin/sbaloon.zip
 
