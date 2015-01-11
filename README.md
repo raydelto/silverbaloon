@@ -36,7 +36,9 @@ Usage: "spacelev 30"
 
 exit -> type this and exit the program.
 
+You can download the windows binary version from:
 
+http://www.raydelto.org/bin/sbaloon.zip
 
 If you have any questions or comments please e-mail the following people:
 
