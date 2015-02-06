@@ -34,6 +34,8 @@ Usage: "spacelev 30"
 
 exit -> type this and exit the program.
 
+You can see a Silverbaloon's screenshot here: http://www.raydelto.org/screen_shots/silver_baloon.png
+
 You can download the windows binaries  from:
 
 http://www.raydelto.org/bin/sbaloon.zip
