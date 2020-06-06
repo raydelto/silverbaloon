@@ -2,3 +2,4 @@
 *.stackdump
 *.swp
 *.dll
+*.o
